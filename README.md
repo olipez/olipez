@@ -1,49 +1,126 @@
-# 👋 Olá, eu sou Fillipe Martins
+<!-- HEADER -->
 
-💻 Desenvolvedor de software  
-🚀 Fundador da FM Softwares  
+<h1 align="center">Hi 👋, I'm Fillipe Martins</h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ADEF&size=28&center=true&vCenter=true&width=700&lines=Software+Developer;Founder+%40+FM+Softwares;Building+SaaS+Platforms;Automation+%7C+APIs+%7C+Data+Products" />
+</p>
 
-## 🚀 Sobre mim
-
-Sou desenvolvedor focado em criar soluções digitais que resolvem problemas reais de negócio.
-
-Trabalho com desenvolvimento de sistemas, automação de processos e criação de plataformas SaaS.
-
-Também sou fundador da **FM Softwares**, onde desenvolvemos softwares sob medida para empresas.
+<p align="center">
+🚀 Building digital products that solve real problems
+</p>
 
 ---
 
-## 🧠 Tecnologias
+# 💻 About Me
 
-- JavaScript
-- Node.js
-- React
-- Python
-- SQL
-- APIs REST
+- 💻 Software Developer  
+- 🏢 Founder of **FM Softwares**  
+- ⚙️ Building **SaaS platforms, automations and data tools**  
+- 🌎 Based in Brazil  
+- 🌐 https://www.fmsoftwares.site  
 
----
-
-## 📌 Projetos
-
-🔹 Psiclo  
-Agenda, prontuário, financeiro e link de agendamento para psicólogos, tudo em um único lugar.
-
-🔹 Rankeou  
-Plataforma de rankeamento e gamificação de jogadores de futvôlei.
-
-🔹 ScoutLab  
-Ferramenta de análise de dados para futebol e fantasy.
+I focus on creating products that combine **technology, usability and real business impact**.
 
 ---
 
-## 🌎 Contato
+# 🧠 Tech Stack
 
-🌐 https://www.fmsoftwares.site  
-💼 LinkedIn: https://linkedin.com/in/elipehz  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,python,mysql,postgres,docker,git,linux,vscode" />
+
+</p>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+# 🚀 Main Projects
+
+## 🧠 Psiclo
+**All-in-one platform for psychologists**
+
+Features:
+- Patient management
+- Medical records
+- Financial control
+- Online scheduling link
+
+Built to simplify the daily workflow of psychologists.
+
+---
+
+## 🏐 Rankeou
+**Gamification platform for footvolley players**
+
+Features:
+- Player ranking system
+- Match results tracking
+- Gamification mechanics
+- Competitive leaderboard
+
+Focused on organizing and ranking the footvolley community.
+
+---
+
+## ⚽ ScoutLab
+**Football data intelligence platform**
+
+Features:
+- Player data analysis
+- Fantasy insights
+- Performance metrics
+- Football analytics tools
+
+Designed for football enthusiasts and fantasy players.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=olipez&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olipez&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=olipez&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.fmsoftwares.site">
+<img src="https://img.shields.io/badge/Website-FMSoftwares-blue?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+⭐ Always building new products and experimenting with technology.
