@@ -75,28 +75,6 @@ Designed for football enthusiasts and fantasy players.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=olipez&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olipez&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=olipez&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
