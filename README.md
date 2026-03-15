@@ -83,7 +83,7 @@ Designed for football enthusiasts and fantasy players.
 <img src="https://img.shields.io/badge/Website-FMSoftwares-blue?style=for-the-badge&logo=google-chrome"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/elipehz">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
