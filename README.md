@@ -18,7 +18,7 @@
 - 🏢 Founder of **FM Softwares**  
 - ⚙️ Building **SaaS platforms, automations and data tools**  
 - 🌎 Based in Brazil  
-- 🌐 https://www.fmsoftwares.site  
+- 🌐 https://www.fmsoftwares.com.br  
 
 I focus on creating products that combine **technology, usability and real business impact**.
 
